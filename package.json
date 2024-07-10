@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://bensos000.github.io/mini-market/",
   "scripts": {
     "dev": "vite",
     "build": "NODE_ENV=production vue-tsc -b && NODE_ENV=production vite build",

@@ -5,7 +5,7 @@ This is a mini market application that allows users to browse and purchase items
 
 ## Demo
 
-[Mini Market Demo Url](https://link-url-here.org)
+[Mini Market Demo Url](https://bensos000.github.io/mini-market/)
 
 ## Installation
 
