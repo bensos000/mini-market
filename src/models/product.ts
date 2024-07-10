@@ -12,5 +12,8 @@ export interface Product {
 
 export interface ProductState {
   items: Record<string, Product>
+  filteredItems: Record<string, Product>
   ids: number[]
+  categories: string[]
+  filtering: boolean
 }
